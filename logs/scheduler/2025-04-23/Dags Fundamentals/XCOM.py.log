@@ -1181,3 +1181,45 @@
 [2025-04-23T21:13:14.351+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:14.350+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-23T21:13:14.381+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:14.380+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
 [2025-04-23T21:13:14.409+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.362 seconds
+[2025-04-23T21:13:45.044+0000] {processor.py:186} INFO - Started process (PID=3592) to work on /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:13:45.046+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/XCOM.py for tasks to queue
+[2025-04-23T21:13:45.052+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:45.051+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:13:45.413+0000] {processor.py:925} INFO - DAG(s) 'My_Fourth_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:13:45.488+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:45.487+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:13:45.528+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:45.528+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
+[2025-04-23T21:13:45.564+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.530 seconds
+[2025-04-23T21:14:15.699+0000] {processor.py:186} INFO - Started process (PID=3622) to work on /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:14:15.700+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/XCOM.py for tasks to queue
+[2025-04-23T21:14:15.702+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:15.702+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:14:15.943+0000] {processor.py:925} INFO - DAG(s) 'My_Fourth_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:14:15.988+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:15.988+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:14:16.013+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:16.013+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
+[2025-04-23T21:14:16.038+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.344 seconds
+[2025-04-23T21:14:46.435+0000] {processor.py:186} INFO - Started process (PID=3650) to work on /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:14:46.437+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/XCOM.py for tasks to queue
+[2025-04-23T21:14:46.441+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:46.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:14:46.786+0000] {processor.py:925} INFO - DAG(s) 'My_Fourth_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:14:46.863+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:46.862+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:14:46.906+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:46.906+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
+[2025-04-23T21:14:46.968+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.540 seconds
+[2025-04-23T21:15:17.164+0000] {processor.py:186} INFO - Started process (PID=3680) to work on /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:15:17.165+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/XCOM.py for tasks to queue
+[2025-04-23T21:15:17.167+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:17.166+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:15:17.484+0000] {processor.py:925} INFO - DAG(s) 'My_Fourth_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:15:17.542+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:17.541+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:15:17.571+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:17.571+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
+[2025-04-23T21:15:17.632+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.474 seconds
+[2025-04-23T21:15:48.472+0000] {processor.py:186} INFO - Started process (PID=3708) to work on /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:15:48.474+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/XCOM.py for tasks to queue
+[2025-04-23T21:15:48.478+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.477+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:15:48.838+0000] {processor.py:925} INFO - DAG(s) 'My_Fourth_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:15:48.946+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.944+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:15:49.016+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:49.015+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
+[2025-04-23T21:15:49.074+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.609 seconds
+[2025-04-23T21:16:19.642+0000] {processor.py:186} INFO - Started process (PID=3737) to work on /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:16:19.643+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/XCOM.py for tasks to queue
+[2025-04-23T21:16:19.647+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:19.646+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:16:20.100+0000] {processor.py:925} INFO - DAG(s) 'My_Fourth_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/XCOM.py
+[2025-04-23T21:16:20.155+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:20.155+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:16:20.189+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:20.189+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Fourth_Dag to None, run_after=None
+[2025-04-23T21:16:20.239+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/XCOM.py took 0.604 seconds

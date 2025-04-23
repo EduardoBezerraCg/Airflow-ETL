@@ -1181,3 +1181,45 @@
 [2025-04-23T21:13:13.833+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:13.832+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-23T21:13:13.860+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:13.860+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
 [2025-04-23T21:13:13.944+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.213 seconds
+[2025-04-23T21:13:44.606+0000] {processor.py:186} INFO - Started process (PID=3591) to work on /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:13:44.607+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Operator_dag.py for tasks to queue
+[2025-04-23T21:13:44.610+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:44.610+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:13:44.651+0000] {processor.py:925} INFO - DAG(s) 'My_Second_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:13:44.761+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:44.760+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:13:44.795+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:44.794+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
+[2025-04-23T21:13:44.901+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.304 seconds
+[2025-04-23T21:14:15.233+0000] {processor.py:186} INFO - Started process (PID=3620) to work on /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:14:15.234+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Operator_dag.py for tasks to queue
+[2025-04-23T21:14:15.237+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:15.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:14:15.263+0000] {processor.py:925} INFO - DAG(s) 'My_Second_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:14:15.329+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:15.329+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:14:15.355+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:15.355+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
+[2025-04-23T21:14:15.388+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.161 seconds
+[2025-04-23T21:14:46.018+0000] {processor.py:186} INFO - Started process (PID=3649) to work on /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:14:46.019+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Operator_dag.py for tasks to queue
+[2025-04-23T21:14:46.022+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:46.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:14:46.054+0000] {processor.py:925} INFO - DAG(s) 'My_Second_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:14:46.151+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:46.151+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:14:46.187+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:46.186+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
+[2025-04-23T21:14:46.236+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.225 seconds
+[2025-04-23T21:15:16.850+0000] {processor.py:186} INFO - Started process (PID=3678) to work on /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:15:16.852+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Operator_dag.py for tasks to queue
+[2025-04-23T21:15:16.858+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:16.857+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:15:16.901+0000] {processor.py:925} INFO - DAG(s) 'My_Second_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:15:16.967+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:16.967+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:15:17.001+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:17.001+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
+[2025-04-23T21:15:17.050+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.208 seconds
+[2025-04-23T21:15:48.021+0000] {processor.py:186} INFO - Started process (PID=3706) to work on /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:15:48.022+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Operator_dag.py for tasks to queue
+[2025-04-23T21:15:48.026+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.025+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:15:48.083+0000] {processor.py:925} INFO - DAG(s) 'My_Second_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:15:48.151+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.151+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:15:48.185+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.185+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
+[2025-04-23T21:15:48.254+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.238 seconds
+[2025-04-23T21:16:19.386+0000] {processor.py:186} INFO - Started process (PID=3735) to work on /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:16:19.387+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Operator_dag.py for tasks to queue
+[2025-04-23T21:16:19.392+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:19.391+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:16:19.423+0000] {processor.py:925} INFO - DAG(s) 'My_Second_Dag' retrieved from /opt/airflow/dags/Dags Fundamentals/Operator_dag.py
+[2025-04-23T21:16:19.488+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:19.488+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:16:19.524+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:19.523+0000] {dag.py:4180} INFO - Setting next_dagrun for My_Second_Dag to None, run_after=None
+[2025-04-23T21:16:19.564+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Operator_dag.py took 0.186 seconds

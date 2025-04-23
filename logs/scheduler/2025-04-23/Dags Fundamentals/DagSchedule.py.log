@@ -1181,3 +1181,45 @@
 [2025-04-23T21:13:13.270+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:13.270+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-23T21:13:13.317+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:13.316+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
 [2025-04-23T21:13:13.409+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.553 seconds
+[2025-04-23T21:13:43.660+0000] {processor.py:186} INFO - Started process (PID=3587) to work on /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:13:43.663+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/DagSchedule.py for tasks to queue
+[2025-04-23T21:13:43.666+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:43.665+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:13:44.014+0000] {processor.py:925} INFO - DAG(s) 'Dag_Scheduler' retrieved from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:13:44.062+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:44.062+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:13:44.107+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:13:44.107+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
+[2025-04-23T21:13:44.185+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.531 seconds
+[2025-04-23T21:14:14.612+0000] {processor.py:186} INFO - Started process (PID=3616) to work on /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:14:14.613+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/DagSchedule.py for tasks to queue
+[2025-04-23T21:14:14.615+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:14.615+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:14:14.853+0000] {processor.py:925} INFO - DAG(s) 'Dag_Scheduler' retrieved from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:14:14.893+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:14.893+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:14:14.930+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:14.930+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
+[2025-04-23T21:14:14.985+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.379 seconds
+[2025-04-23T21:14:45.194+0000] {processor.py:186} INFO - Started process (PID=3645) to work on /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:14:45.195+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/DagSchedule.py for tasks to queue
+[2025-04-23T21:14:45.198+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:45.198+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:14:45.570+0000] {processor.py:925} INFO - DAG(s) 'Dag_Scheduler' retrieved from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:14:45.629+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:45.628+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:14:45.673+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:14:45.673+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
+[2025-04-23T21:14:45.746+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.563 seconds
+[2025-04-23T21:15:16.224+0000] {processor.py:186} INFO - Started process (PID=3674) to work on /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:15:16.225+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/DagSchedule.py for tasks to queue
+[2025-04-23T21:15:16.229+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:16.229+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:15:16.535+0000] {processor.py:925} INFO - DAG(s) 'Dag_Scheduler' retrieved from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:15:16.597+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:16.597+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:15:16.668+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:16.667+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
+[2025-04-23T21:15:16.744+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.529 seconds
+[2025-04-23T21:15:47.599+0000] {processor.py:186} INFO - Started process (PID=3703) to work on /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:15:47.601+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/DagSchedule.py for tasks to queue
+[2025-04-23T21:15:47.604+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:47.603+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:15:48.023+0000] {processor.py:925} INFO - DAG(s) 'Dag_Scheduler' retrieved from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:15:48.105+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.104+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:15:48.295+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:15:48.294+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
+[2025-04-23T21:15:48.347+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.756 seconds
+[2025-04-23T21:16:18.744+0000] {processor.py:186} INFO - Started process (PID=3732) to work on /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:16:18.746+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/DagSchedule.py for tasks to queue
+[2025-04-23T21:16:18.752+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:18.751+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:16:19.226+0000] {processor.py:925} INFO - DAG(s) 'Dag_Scheduler' retrieved from /opt/airflow/dags/Dags Fundamentals/DagSchedule.py
+[2025-04-23T21:16:19.318+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:19.317+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:16:19.371+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:19.370+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_Scheduler to 2025-04-22 00:00:00+00:00, run_after=2025-04-23 00:00:00+00:00
+[2025-04-23T21:16:19.408+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/DagSchedule.py took 0.677 seconds

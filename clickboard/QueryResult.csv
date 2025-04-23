@@ -1,0 +1,25 @@
+id,name,department,salary
+1,Alice,Engineering,75000
+2,Bob,Marketing,50000
+3,Charlie,HR,60000
+4,Diana,Engineering,80000
+5,Eve,Sales,55000
+6,Alice,Engineering,75000
+7,Bob,Marketing,50000
+8,Charlie,HR,60000
+9,Diana,Engineering,80000
+10,Eve,Sales,55000
+11,Alice Johnson,Human Resources,75000.00
+12,Bob Smith,Human Resources,55000.00
+13,Carol Davis,Human Resources,50000.00
+14,David Lee,Human Resources,48000.00
+15,Evelyn Clark,Finance,82000.00
+16,Frank Moore,IT,91000.00
+17,Grace Kim,Marketing,67000.00
+18,Alice Johnson,Human Resources,75000.00
+19,Bob Smith,Human Resources,55000.00
+20,Carol Davis,Human Resources,50000.00
+21,David Lee,Human Resources,48000.00
+22,Evelyn Clark,Finance,82000.00
+23,Frank Moore,IT,91000.00
+24,Grace Kim,Marketing,67000.00

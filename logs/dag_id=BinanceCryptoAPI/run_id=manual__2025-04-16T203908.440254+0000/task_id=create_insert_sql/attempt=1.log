@@ -1,0 +1,20 @@
+[2025-04-16T20:39:13.348+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-04-16T20:39:13.421+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: BinanceCryptoAPI.create_insert_sql manual__2025-04-16T20:39:08.440254+00:00 [queued]>
+[2025-04-16T20:39:13.438+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: BinanceCryptoAPI.create_insert_sql manual__2025-04-16T20:39:08.440254+00:00 [queued]>
+[2025-04-16T20:39:13.441+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-04-16T20:39:13.478+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): create_insert_sql> on 2025-04-16 20:39:08.440254+00:00
+[2025-04-16T20:39:13.492+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1182) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-04-16T20:39:13.501+0000] {standard_task_runner.py:72} INFO - Started process 1187 to run task
+[2025-04-16T20:39:13.499+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'BinanceCryptoAPI', 'create_insert_sql', 'manual__2025-04-16T20:39:08.440254+00:00', '--job-id', '56', '--raw', '--subdir', 'DAGS_FOLDER/ETL/BinanceETL.py', '--cfg-path', '/tmp/tmpms2hjvlk']
+[2025-04-16T20:39:13.510+0000] {standard_task_runner.py:105} INFO - Job 56: Subtask create_insert_sql
+[2025-04-16T20:39:13.742+0000] {task_command.py:467} INFO - Running <TaskInstance: BinanceCryptoAPI.create_insert_sql manual__2025-04-16T20:39:08.440254+00:00 [running]> on host 2903c312f900
+[2025-04-16T20:39:14.005+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='BinanceCryptoAPI' AIRFLOW_CTX_TASK_ID='create_insert_sql' AIRFLOW_CTX_EXECUTION_DATE='2025-04-16T20:39:08.440254+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-16T20:39:08.440254+00:00'
+[2025-04-16T20:39:14.006+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-04-16T20:39:14.137+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-04-16T20:39:14.175+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-04-16T20:39:14.175+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=BinanceCryptoAPI, task_id=create_insert_sql, run_id=manual__2025-04-16T20:39:08.440254+00:00, execution_date=20250416T203908, start_date=20250416T203913, end_date=20250416T203914
+[2025-04-16T20:39:14.327+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-04-16T20:39:14.436+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-04-16T20:39:14.450+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

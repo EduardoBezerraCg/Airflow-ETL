@@ -1,0 +1,24 @@
+[2025-04-16T20:32:55.989+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-04-16T20:32:56.062+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: BinanceCryptoAPI.TestConnectionDB manual__2025-04-16T20:32:54.128795+00:00 [queued]>
+[2025-04-16T20:32:56.075+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: BinanceCryptoAPI.TestConnectionDB manual__2025-04-16T20:32:54.128795+00:00 [queued]>
+[2025-04-16T20:32:56.077+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-04-16T20:32:56.119+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): TestConnectionDB> on 2025-04-16 20:32:54.128795+00:00
+[2025-04-16T20:32:56.129+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1033) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-04-16T20:32:56.134+0000] {standard_task_runner.py:72} INFO - Started process 1035 to run task
+[2025-04-16T20:32:56.133+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'BinanceCryptoAPI', 'TestConnectionDB', 'manual__2025-04-16T20:32:54.128795+00:00', '--job-id', '38', '--raw', '--subdir', 'DAGS_FOLDER/ETL/BinanceETL.py', '--cfg-path', '/tmp/tmpuap26vob']
+[2025-04-16T20:32:56.137+0000] {standard_task_runner.py:105} INFO - Job 38: Subtask TestConnectionDB
+[2025-04-16T20:32:56.507+0000] {task_command.py:467} INFO - Running <TaskInstance: BinanceCryptoAPI.TestConnectionDB manual__2025-04-16T20:32:54.128795+00:00 [running]> on host 2903c312f900
+[2025-04-16T20:32:56.890+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='BinanceCryptoAPI' AIRFLOW_CTX_TASK_ID='TestConnectionDB' AIRFLOW_CTX_EXECUTION_DATE='2025-04-16T20:32:54.128795+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-16T20:32:54.128795+00:00'
+[2025-04-16T20:32:56.891+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-04-16T20:32:57.004+0000] {base.py:84} INFO - Retrieving connection 'MY_DB'
+[2025-04-16T20:32:57.046+0000] {logging_mixin.py:190} INFO - Connection to database successful
+[2025-04-16T20:32:57.079+0000] {sql.py:511} INFO - Running statement: SELECT * FROM cryptoInfo, parameters: None
+[2025-04-16T20:32:57.105+0000] {sql.py:520} INFO - Rows affected: 3066
+[2025-04-16T20:32:57.107+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-04-16T20:32:57.156+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-04-16T20:32:57.157+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=BinanceCryptoAPI, task_id=TestConnectionDB, run_id=manual__2025-04-16T20:32:54.128795+00:00, execution_date=20250416T203254, start_date=20250416T203256, end_date=20250416T203257
+[2025-04-16T20:32:57.396+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-04-16T20:32:57.635+0000] {taskinstance.py:3901} INFO - 3 downstream tasks scheduled from follow-on schedule check
+[2025-04-16T20:32:57.660+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

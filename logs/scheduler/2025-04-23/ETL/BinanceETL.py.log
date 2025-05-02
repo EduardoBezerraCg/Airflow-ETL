@@ -1223,3 +1223,157 @@
 [2025-04-23T21:16:17.874+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:17.874+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-23T21:16:17.904+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:17.904+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
 [2025-04-23T21:16:17.955+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.528 seconds
+[2025-04-23T21:16:48.263+0000] {processor.py:186} INFO - Started process (PID=3754) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:16:48.264+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:16:48.269+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.268+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:16:48.594+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:16:48.651+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.651+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:16:48.678+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.678+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:16:48.736+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.483 seconds
+[2025-04-23T21:17:18.914+0000] {processor.py:186} INFO - Started process (PID=3783) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:17:18.916+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:17:18.919+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:18.918+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:17:19.218+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:17:19.262+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.262+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:17:19.290+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.290+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:17:19.348+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.441 seconds
+[2025-04-23T21:17:49.730+0000] {processor.py:186} INFO - Started process (PID=3812) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:17:49.732+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:17:49.740+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:49.739+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:17:50.026+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:17:50.082+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.082+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:17:50.111+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.111+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:17:50.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.450 seconds
+[2025-04-23T21:18:20.388+0000] {processor.py:186} INFO - Started process (PID=3841) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:18:20.389+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:18:20.391+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.391+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:18:20.665+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:18:20.718+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.718+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:18:20.746+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.746+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:18:20.799+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.417 seconds
+[2025-04-23T21:18:51.033+0000] {processor.py:186} INFO - Started process (PID=3870) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:18:51.035+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:18:51.038+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.037+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:18:51.307+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:18:51.363+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.363+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:18:51.390+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.390+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:18:51.460+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.435 seconds
+[2025-04-23T21:19:21.907+0000] {processor.py:186} INFO - Started process (PID=3899) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:19:21.907+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:19:21.909+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:21.909+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:19:22.185+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:19:22.233+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.233+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:19:22.258+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.258+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:19:22.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.435 seconds
+[2025-04-23T21:19:52.900+0000] {processor.py:186} INFO - Started process (PID=3928) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:19:52.902+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:19:52.908+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:52.907+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:19:53.187+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:19:53.236+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.236+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:19:53.266+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.265+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:19:53.325+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.434 seconds
+[2025-04-23T21:20:24.239+0000] {processor.py:186} INFO - Started process (PID=3963) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:20:24.240+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:20:24.242+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.242+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:20:24.495+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:20:24.547+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.547+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:20:24.576+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.576+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:20:24.631+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.397 seconds
+[2025-04-23T21:20:55.384+0000] {processor.py:186} INFO - Started process (PID=3992) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:20:55.386+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:20:55.388+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.387+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:20:55.723+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:20:55.787+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.786+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:20:55.818+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.817+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:20:55.893+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.514 seconds
+[2025-04-23T21:21:26.294+0000] {processor.py:186} INFO - Started process (PID=4021) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:21:26.295+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:21:26.297+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:26.297+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:21:26.578+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:21:26.636+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:26.635+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:21:26.664+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:26.664+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:21:26.745+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.457 seconds
+[2025-04-23T21:21:56.986+0000] {processor.py:186} INFO - Started process (PID=4050) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:21:56.987+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:21:56.992+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:56.992+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:21:57.250+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:21:57.296+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:57.296+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:21:57.323+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:57.323+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:21:57.372+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.392 seconds
+[2025-04-23T21:22:27.748+0000] {processor.py:186} INFO - Started process (PID=4079) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:22:27.750+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:22:27.752+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:27.752+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:22:28.045+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:22:28.099+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:28.098+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:22:28.124+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:28.123+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:22:28.235+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.502 seconds
+[2025-04-23T21:22:58.448+0000] {processor.py:186} INFO - Started process (PID=4108) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:22:58.449+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:22:58.454+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:58.452+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:22:58.726+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:22:58.779+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:58.778+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:22:58.809+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:58.809+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:22:58.868+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.426 seconds
+[2025-04-23T21:23:29.084+0000] {processor.py:186} INFO - Started process (PID=4137) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:23:29.086+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:23:29.088+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.087+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:23:29.367+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:23:29.420+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.420+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:23:29.447+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.447+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:23:29.520+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.441 seconds
+[2025-04-23T21:23:59.793+0000] {processor.py:186} INFO - Started process (PID=4166) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:23:59.794+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:23:59.798+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:59.798+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:24:00.066+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:24:00.118+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.118+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:24:00.147+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.146+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:24:00.206+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.419 seconds
+[2025-04-23T21:24:30.345+0000] {processor.py:186} INFO - Started process (PID=4196) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:24:30.347+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:24:30.349+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:30.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:24:30.623+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:24:30.676+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:30.676+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:24:30.721+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:30.720+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:24:30.786+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.445 seconds
+[2025-04-23T21:25:01.669+0000] {processor.py:186} INFO - Started process (PID=4225) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:25:01.671+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:25:01.674+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:01.674+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:25:02.077+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:25:02.133+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.132+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:25:02.158+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.157+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:25:02.271+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.612 seconds
+[2025-04-23T21:25:33.033+0000] {processor.py:186} INFO - Started process (PID=4254) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:25:33.035+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:25:33.039+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.039+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:25:33.440+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:25:33.514+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.514+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:25:33.544+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.544+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:25:33.602+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.575 seconds
+[2025-04-23T21:26:04.539+0000] {processor.py:186} INFO - Started process (PID=4283) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:26:04.541+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:26:04.543+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:04.543+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:26:04.872+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:26:04.936+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:04.935+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:26:04.968+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:04.967+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:26:05.040+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.514 seconds
+[2025-04-23T21:26:35.281+0000] {processor.py:186} INFO - Started process (PID=4312) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:26:35.282+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:26:35.284+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.284+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:26:35.563+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:26:35.613+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.613+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:26:35.643+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.642+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:26:35.701+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.425 seconds
+[2025-04-23T21:27:06.184+0000] {processor.py:186} INFO - Started process (PID=4341) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:27:06.185+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:27:06.187+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:06.187+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:27:06.465+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:27:06.513+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:06.512+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:27:06.539+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:06.539+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:27:06.617+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.439 seconds
+[2025-04-23T21:27:37.182+0000] {processor.py:186} INFO - Started process (PID=4370) to work on /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:27:37.183+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ETL/BinanceETL.py for tasks to queue
+[2025-04-23T21:27:37.185+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:37.185+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:27:37.487+0000] {processor.py:925} INFO - DAG(s) 'BinanceCryptoAPI' retrieved from /opt/airflow/dags/ETL/BinanceETL.py
+[2025-04-23T21:27:37.538+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:37.538+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:27:37.565+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:37.565+0000] {dag.py:4180} INFO - Setting next_dagrun for BinanceCryptoAPI to None, run_after=None
+[2025-04-23T21:27:37.656+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ETL/BinanceETL.py took 0.481 seconds

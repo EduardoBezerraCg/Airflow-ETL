@@ -22,3 +22,4 @@ with DAG(
     tags=[f"{dagName}", "ETL Portfolio"]
 ) as dag:
     pass
+

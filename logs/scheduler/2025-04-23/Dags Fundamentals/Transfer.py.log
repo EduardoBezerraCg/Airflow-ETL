@@ -1223,3 +1223,157 @@
 [2025-04-23T21:16:18.523+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:18.522+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-23T21:16:18.569+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:18.569+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
 [2025-04-23T21:16:18.635+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.630 seconds
+[2025-04-23T21:16:48.853+0000] {processor.py:186} INFO - Started process (PID=3758) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:16:48.854+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:16:48.858+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.857+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:16:49.134+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:16:49.182+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:49.181+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:16:49.210+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:49.210+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:16:49.261+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.415 seconds
+[2025-04-23T21:17:19.438+0000] {processor.py:186} INFO - Started process (PID=3787) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:17:19.439+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:17:19.441+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.441+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:17:19.691+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:17:19.738+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.737+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:17:19.762+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.761+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:17:19.814+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.382 seconds
+[2025-04-23T21:17:50.279+0000] {processor.py:186} INFO - Started process (PID=3816) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:17:50.280+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:17:50.282+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.282+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:17:50.555+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:17:50.603+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.603+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:17:50.628+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.627+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:17:50.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.411 seconds
+[2025-04-23T21:18:20.893+0000] {processor.py:186} INFO - Started process (PID=3845) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:18:20.894+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:18:20.896+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.896+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:18:21.170+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:18:21.217+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:21.217+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:18:21.248+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:21.248+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:18:21.313+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.429 seconds
+[2025-04-23T21:18:51.523+0000] {processor.py:186} INFO - Started process (PID=3874) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:18:51.524+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:18:51.526+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.526+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:18:51.780+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:18:51.836+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.835+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:18:51.862+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.862+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:18:51.891+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.374 seconds
+[2025-04-23T21:19:22.447+0000] {processor.py:186} INFO - Started process (PID=3903) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:19:22.448+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:19:22.450+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.450+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:19:22.715+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:19:22.759+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.758+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:19:22.788+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.787+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:19:22.847+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.406 seconds
+[2025-04-23T21:19:53.402+0000] {processor.py:186} INFO - Started process (PID=3932) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:19:53.403+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:19:53.407+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.407+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:19:53.666+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:19:53.720+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.720+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:19:53.744+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.743+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:19:53.805+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.409 seconds
+[2025-04-23T21:20:24.692+0000] {processor.py:186} INFO - Started process (PID=3967) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:20:24.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:20:24.696+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.695+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:20:24.954+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:20:25.002+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:25.002+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:20:25.030+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:25.030+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:20:25.078+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.390 seconds
+[2025-04-23T21:20:55.938+0000] {processor.py:186} INFO - Started process (PID=3996) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:20:55.939+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:20:55.942+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.942+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:20:56.209+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:20:56.260+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:56.260+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:20:56.287+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:56.286+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:20:56.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.406 seconds
+[2025-04-23T21:21:27.049+0000] {processor.py:186} INFO - Started process (PID=4026) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:21:27.050+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:21:27.053+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:27.052+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:21:27.326+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:21:27.370+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:27.369+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:21:27.389+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:27.389+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:21:27.448+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.404 seconds
+[2025-04-23T21:21:57.734+0000] {processor.py:186} INFO - Started process (PID=4055) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:21:57.739+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:21:57.746+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:57.745+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:21:58.038+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:21:58.084+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:58.084+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:21:58.103+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:58.103+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:21:58.165+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.449 seconds
+[2025-04-23T21:22:28.649+0000] {processor.py:186} INFO - Started process (PID=4084) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:22:28.652+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:22:28.657+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:28.657+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:22:28.960+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:22:29.007+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:29.007+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:22:29.028+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:29.028+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:22:29.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.443 seconds
+[2025-04-23T21:22:59.202+0000] {processor.py:186} INFO - Started process (PID=4113) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:22:59.203+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:22:59.205+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:59.205+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:22:59.460+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:22:59.509+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:59.508+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:22:59.534+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:59.533+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:22:59.587+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.389 seconds
+[2025-04-23T21:23:29.884+0000] {processor.py:186} INFO - Started process (PID=4142) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:23:29.886+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:23:29.888+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.888+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:23:30.153+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:23:30.210+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:30.209+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:23:30.232+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:30.232+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:23:30.322+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.443 seconds
+[2025-04-23T21:24:00.519+0000] {processor.py:186} INFO - Started process (PID=4171) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:24:00.520+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:24:00.523+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.523+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:24:00.786+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:24:00.839+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.839+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:24:00.867+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.867+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:24:00.925+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.413 seconds
+[2025-04-23T21:24:31.095+0000] {processor.py:186} INFO - Started process (PID=4201) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:24:31.097+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:24:31.099+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:31.098+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:24:31.376+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:24:31.428+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:31.427+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:24:31.457+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:31.457+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:24:31.507+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.416 seconds
+[2025-04-23T21:25:02.329+0000] {processor.py:186} INFO - Started process (PID=4229) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:25:02.331+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:25:02.335+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.334+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:25:02.624+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:25:02.669+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.668+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:25:02.692+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.692+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:25:02.742+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.423 seconds
+[2025-04-23T21:25:33.657+0000] {processor.py:186} INFO - Started process (PID=4258) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:25:33.658+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:25:33.661+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.661+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:25:33.990+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:25:34.062+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:34.061+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:25:34.094+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:34.094+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:25:34.151+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.499 seconds
+[2025-04-23T21:26:05.092+0000] {processor.py:186} INFO - Started process (PID=4287) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:26:05.094+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:26:05.097+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:05.097+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:26:05.461+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:26:05.529+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:05.528+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:26:05.564+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:05.564+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:26:05.626+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.540 seconds
+[2025-04-23T21:26:35.788+0000] {processor.py:186} INFO - Started process (PID=4316) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:26:35.789+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:26:35.792+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.792+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:26:36.059+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:26:36.104+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:36.103+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:26:36.127+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:36.127+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:26:36.165+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.381 seconds
+[2025-04-23T21:27:07.227+0000] {processor.py:186} INFO - Started process (PID=4345) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:27:07.228+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:27:07.230+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:07.230+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:27:07.495+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:27:07.548+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:07.547+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:27:07.578+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:07.577+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:27:07.627+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.404 seconds
+[2025-04-23T21:27:38.185+0000] {processor.py:186} INFO - Started process (PID=4375) to work on /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:27:38.188+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Dags Fundamentals/Transfer.py for tasks to queue
+[2025-04-23T21:27:38.199+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:38.198+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:27:38.614+0000] {processor.py:925} INFO - DAG(s) 'Transfer_Data_Dag_SQLExecuteQuery' retrieved from /opt/airflow/dags/Dags Fundamentals/Transfer.py
+[2025-04-23T21:27:38.681+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:38.681+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:27:38.712+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:38.712+0000] {dag.py:4180} INFO - Setting next_dagrun for Transfer_Data_Dag_SQLExecuteQuery to None, run_after=None
+[2025-04-23T21:27:38.762+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Dags Fundamentals/Transfer.py took 0.603 seconds

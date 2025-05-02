@@ -1223,3 +1223,157 @@
 [2025-04-23T21:16:17.867+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:17.867+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2025-04-23T21:16:17.904+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:17.904+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
 [2025-04-23T21:16:17.979+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.541 seconds
+[2025-04-23T21:16:48.272+0000] {processor.py:186} INFO - Started process (PID=3755) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:16:48.274+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:16:48.278+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.277+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:16:48.597+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:16:48.649+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.648+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:16:48.678+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:16:48.678+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:16:48.774+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.509 seconds
+[2025-04-23T21:17:18.924+0000] {processor.py:186} INFO - Started process (PID=3784) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:17:18.925+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:17:18.928+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:18.927+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:17:19.215+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:17:19.262+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.262+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:17:19.290+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:19.290+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:17:19.380+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.464 seconds
+[2025-04-23T21:17:49.747+0000] {processor.py:186} INFO - Started process (PID=3813) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:17:49.749+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:17:49.752+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:49.751+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:17:50.027+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:17:50.082+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.082+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:17:50.112+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:17:50.112+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:17:50.204+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.469 seconds
+[2025-04-23T21:18:20.396+0000] {processor.py:186} INFO - Started process (PID=3842) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:18:20.397+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:18:20.400+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.399+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:18:20.672+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:18:20.719+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.719+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:18:20.746+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:20.746+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:18:20.799+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.408 seconds
+[2025-04-23T21:18:51.042+0000] {processor.py:186} INFO - Started process (PID=3871) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:18:51.043+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:18:51.045+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.045+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:18:51.308+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:18:51.361+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.361+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:18:51.386+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:18:51.386+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:18:51.434+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.396 seconds
+[2025-04-23T21:19:21.914+0000] {processor.py:186} INFO - Started process (PID=3900) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:19:21.915+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:19:21.918+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:21.917+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:19:22.187+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:19:22.233+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.232+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:19:22.258+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:22.258+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:19:22.366+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.456 seconds
+[2025-04-23T21:19:52.918+0000] {processor.py:186} INFO - Started process (PID=3929) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:19:52.920+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:19:52.924+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:52.923+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:19:53.187+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:19:53.236+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.235+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:19:53.265+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:19:53.264+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:19:53.353+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.445 seconds
+[2025-04-23T21:20:24.248+0000] {processor.py:186} INFO - Started process (PID=3964) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:20:24.248+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:20:24.250+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.250+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:20:24.517+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:20:24.563+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.562+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:20:24.586+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:24.586+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:20:24.652+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.409 seconds
+[2025-04-23T21:20:55.393+0000] {processor.py:186} INFO - Started process (PID=3993) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:20:55.394+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:20:55.396+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.396+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:20:55.720+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:20:55.782+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.781+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:20:55.817+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:20:55.816+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:20:55.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.483 seconds
+[2025-04-23T21:21:26.303+0000] {processor.py:186} INFO - Started process (PID=4022) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:21:26.304+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:21:26.306+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:26.306+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:21:26.573+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:21:26.625+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:26.625+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:21:26.656+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:26.656+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:21:26.720+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.422 seconds
+[2025-04-23T21:21:57.000+0000] {processor.py:186} INFO - Started process (PID=4051) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:21:57.001+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:21:57.003+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:57.003+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:21:57.255+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:21:57.301+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:57.300+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:21:57.325+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:21:57.324+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:21:57.391+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.397 seconds
+[2025-04-23T21:22:27.757+0000] {processor.py:186} INFO - Started process (PID=4080) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:22:27.759+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:22:27.762+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:27.761+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:22:28.045+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:22:28.096+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:28.095+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:22:28.124+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:28.123+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:22:28.197+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.445 seconds
+[2025-04-23T21:22:58.464+0000] {processor.py:186} INFO - Started process (PID=4109) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:22:58.465+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:22:58.468+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:58.467+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:22:58.726+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:22:58.776+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:58.776+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:22:58.808+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:22:58.808+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:22:58.869+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.413 seconds
+[2025-04-23T21:23:29.095+0000] {processor.py:186} INFO - Started process (PID=4138) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:23:29.096+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:23:29.098+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.098+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:23:29.361+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:23:29.419+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.419+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:23:29.447+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:29.447+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:23:29.571+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.482 seconds
+[2025-04-23T21:23:59.800+0000] {processor.py:186} INFO - Started process (PID=4167) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:23:59.802+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:23:59.805+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:23:59.804+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:24:00.078+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:24:00.126+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.125+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:24:00.148+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:00.147+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:24:00.228+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.433 seconds
+[2025-04-23T21:24:30.758+0000] {processor.py:186} INFO - Started process (PID=4198) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:24:30.759+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:24:30.761+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:30.761+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:24:31.077+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:24:31.126+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:31.126+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:24:31.155+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:24:31.155+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:24:31.214+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.462 seconds
+[2025-04-23T21:25:01.682+0000] {processor.py:186} INFO - Started process (PID=4226) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:25:01.683+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:25:01.688+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:01.687+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:25:02.076+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:25:02.133+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.132+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:25:02.158+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:02.158+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:25:02.236+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.562 seconds
+[2025-04-23T21:25:33.045+0000] {processor.py:186} INFO - Started process (PID=4255) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:25:33.046+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:25:33.050+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.049+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:25:33.458+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:25:33.524+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.524+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:25:33.550+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:25:33.550+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:25:33.619+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.582 seconds
+[2025-04-23T21:26:04.562+0000] {processor.py:186} INFO - Started process (PID=4284) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:26:04.563+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:26:04.566+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:04.565+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:26:04.905+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:26:04.964+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:04.963+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:26:04.993+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:04.992+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:26:05.055+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.506 seconds
+[2025-04-23T21:26:35.294+0000] {processor.py:186} INFO - Started process (PID=4313) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:26:35.295+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:26:35.298+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.298+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:26:35.562+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:26:35.613+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.612+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:26:35.643+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:26:35.643+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:26:35.700+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.413 seconds
+[2025-04-23T21:27:06.193+0000] {processor.py:186} INFO - Started process (PID=4342) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:27:06.194+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:27:06.197+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:06.196+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:27:06.463+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:27:06.514+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:06.514+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:27:06.539+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:06.539+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:27:06.638+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.450 seconds
+[2025-04-23T21:27:37.191+0000] {processor.py:186} INFO - Started process (PID=4371) to work on /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:27:37.192+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py for tasks to queue
+[2025-04-23T21:27:37.194+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:37.194+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:27:37.486+0000] {processor.py:925} INFO - DAG(s) 'Dag_CustomOperator' retrieved from /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py
+[2025-04-23T21:27:37.539+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:37.539+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-23T21:27:37.565+0000] {logging_mixin.py:190} INFO - [2025-04-23T21:27:37.565+0000] {dag.py:4180} INFO - Setting next_dagrun for Dag_CustomOperator to None, run_after=None
+[2025-04-23T21:27:37.634+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Advanced Topics/CustomOperatorDat.py took 0.448 seconds

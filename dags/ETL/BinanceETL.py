@@ -17,7 +17,7 @@ AIRFLOW_HOME = '/opt/airflow/clickboard'
 
 def connect_to_db():
     try:
-        pg_hook = PostgresHook(postgres_conn_id="MY_DB")
+        pg_hook = PostgresHook(postgres_conn_id="DBPostgres")
         conn = pg_hook.get_conn()
         cursor = conn.cursor()
         cursor.execute("SELECT 1;")
@@ -75,7 +75,7 @@ def create_insert_sql():
 
 @task
 def load_crypto_data():
-    pg_hook = PostgresHook(postgres_conn_id="MY_DB")
+    pg_hook = PostgresHook(postgres_conn_id="DBPostgres")
 
     with open(f"{AIRFLOW_HOME}/insert_crypto.sql", 'r') as f:
         sql_script = f.read()

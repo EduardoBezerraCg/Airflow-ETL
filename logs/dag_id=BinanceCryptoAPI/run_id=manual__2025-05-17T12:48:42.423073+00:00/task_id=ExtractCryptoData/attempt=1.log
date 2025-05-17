@@ -1,0 +1,28 @@
+[2025-05-17T12:48:50.336+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-05-17T12:48:50.349+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: BinanceCryptoAPI.ExtractCryptoData manual__2025-05-17T12:48:42.423073+00:00 [queued]>
+[2025-05-17T12:48:50.355+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: BinanceCryptoAPI.ExtractCryptoData manual__2025-05-17T12:48:42.423073+00:00 [queued]>
+[2025-05-17T12:48:50.356+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-05-17T12:48:50.362+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): ExtractCryptoData> on 2025-05-17 12:48:42.423073+00:00
+[2025-05-17T12:48:50.374+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=183) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-05-17T12:48:50.378+0000] {standard_task_runner.py:72} INFO - Started process 188 to run task
+[2025-05-17T12:48:50.381+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'BinanceCryptoAPI', 'ExtractCryptoData', 'manual__2025-05-17T12:48:42.423073+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/ETL/BinanceETL.py', '--cfg-path', '/tmp/tmpsxf4xnmd']
+[2025-05-17T12:48:50.384+0000] {standard_task_runner.py:105} INFO - Job 12: Subtask ExtractCryptoData
+[2025-05-17T12:48:50.447+0000] {task_command.py:467} INFO - Running <TaskInstance: BinanceCryptoAPI.ExtractCryptoData manual__2025-05-17T12:48:42.423073+00:00 [running]> on host 42e621b39a3e
+[2025-05-17T12:48:50.503+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='BinanceCryptoAPI' AIRFLOW_CTX_TASK_ID='ExtractCryptoData' AIRFLOW_CTX_EXECUTION_DATE='2025-05-17T12:48:42.423073+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-17T12:48:42.423073+00:00'
+[2025-05-17T12:48:50.504+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-05-17T12:48:53.229+0000] {logging_mixin.py:190} INFO -     symbol  priceChange priceChangePercent  ...    firstId     lastId  count
+0   ETHBTC  -0.00105000             -4.182  ...  495639371  495717464  78094
+1   LTCBTC  -0.00002200             -2.252  ...  105134158  105141904   7747
+2   BNBBTC  -0.00007600             -1.206  ...  272266832  272277558  10727
+3   NEOBTC  -0.00000280             -4.262  ...   47539333   47540306    974
+4  QTUMETH  -0.00000400             -0.432  ...    5523862    5523911     50
+
+[5 rows x 21 columns]
+[2025-05-17T12:48:53.262+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-05-17T12:48:53.287+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-05-17T12:48:53.288+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=BinanceCryptoAPI, task_id=ExtractCryptoData, run_id=manual__2025-05-17T12:48:42.423073+00:00, execution_date=20250517T124842, start_date=20250517T124850, end_date=20250517T124853
+[2025-05-17T12:48:53.363+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-05-17T12:48:53.397+0000] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-05-17T12:48:53.403+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

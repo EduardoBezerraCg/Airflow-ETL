@@ -14,7 +14,6 @@ dagName = "BinanceCryptoAPI"
 AIRFLOW_HOME = '/opt/airflow/clickboard'
 
 
-
 def connect_to_db():
     try:
         pg_hook = PostgresHook(postgres_conn_id="DBPostgres")

@@ -12,6 +12,7 @@ from airflow.decorators import task
 dagName = "YourDagNameHere"
 
 AIRFLOW_HOME = '/opt/airflow/clickboard'
+db_con = ""
 
 
 with DAG(
@@ -22,3 +23,4 @@ with DAG(
     tags=[f"{dagName}", "ETL Portfolio"]
 ) as dag:
     pass
+
